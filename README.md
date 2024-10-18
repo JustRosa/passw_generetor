@@ -1,4 +1,4 @@
-# Password Manager - `pass_sec`
+# Password Manager - `passw_generetor`
 
 Este projeto é um gerador de senhas seguro escrito em Python, que salva as credenciais geradas (site, e-mail e senha) em um arquivo Excel e permite que você procure contas salvas com base no nome do site. Ideal para quem quer manter suas senhas organizadas e seguras localmente.
 
