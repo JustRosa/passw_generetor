@@ -93,7 +93,7 @@ Senha : sA}g$zR9qA?B)nxK@!%o
 ## Estrutura do projeto
 
 ```
-pass_sec/
+passw_generetor/
 │
 ├── main.py          # Script principal do gerenciador de senhas
 ├── README.md        # Instruções e documentação do projeto
