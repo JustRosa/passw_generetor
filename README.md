@@ -110,4 +110,3 @@ pass_sec/
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um _issue_ ou _pull request_ com melhorias ou correções.
-# passw_generetor
